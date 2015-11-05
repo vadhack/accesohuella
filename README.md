@@ -56,14 +56,30 @@ Resitencias 220 Ohm para los Leds
 
 Un protoboard para conexiones
 
+
+##USO
+
+El menu principal muestra 2 opciones: 
+
+Letra A: Ir a Menu de registro de DNI y Huella, Primero se ingresa DNI y luego se ingresa huella 2 veces, el LED verde indica registro correcto.
+
+Letra B: Ir menu Acceso, está a la espera de lectura de huella la cual indica mediante el LED verde si tiene acceso permitido.
+
+Los DNI y IDs para huellas son guardados en un archivo: datalog.txt
+
+Los DNI de personas con acceso permitido son guardados en archivo: lista.txt
+
+
+
 ##Notas
 
-Deben hacer un partidor de tension de 5v a 3.3v para las conexiones del módulo lector de SD
+Deben hacer un partidor de tensión de 5v a 3.3v para las conexiones del módulo lector de SD
 
 
 Para dudas pueden ponerse en contacto conmigo : valentin.arambulo@gmail.com, www.vadhack.com
 
 
-Vendo cualquiera de los componentes utilizados.
+#####Vendo cualquiera de los componentes utilizados.
+
 
 
